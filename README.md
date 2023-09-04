@@ -26,7 +26,7 @@ The latest tested versions of the dependencies are listed:
 - modal                     0.4.1
 
 
-## Code structure
+## Code Structure
 
 The code is structured as follows:
 - Seeds: A set of shared seeds among different datasets for the reproducible results.
